@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-project",
+  "version": "1.0.0",
+  "description": "project portfolio for microverse trails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xandro2021/MicroTrials_BrightWebilord_AlejandroSalazar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xandro2021/MicroTrials_BrightWebilord_AlejandroSalazar/issues"
+  },
+  "homepage": "https://github.com/xandro2021/MicroTrials_BrightWebilord_AlejandroSalazar#readme"
+}

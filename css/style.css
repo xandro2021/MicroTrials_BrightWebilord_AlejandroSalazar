@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav#navbar{
+    background: #d21e39;
+}
+
+
+nav#navbar .menu{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    width: 100%;
+    margin-left: auto;
+    position: relative;
+    right: 30px !important;
+}
+
+nav#navbar .menu a{
+    display: block;
+    padding: 25px;
+    color: white;
+}
+
+nav#navbar .menu a:hover{
+    background: rgb(101, 101, 248);
+}
