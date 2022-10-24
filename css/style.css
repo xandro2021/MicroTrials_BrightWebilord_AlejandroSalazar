@@ -9,6 +9,9 @@ a {
 
 nav#navbar {
     background: #d21e39;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 
@@ -19,7 +22,7 @@ nav#navbar .menu {
     width: 100%;
     margin-left: auto;
     position: relative;
-    right: 30px !important;
+    /* right: 30px !important; */
 }
 
 nav#navbar .menu a {
@@ -30,4 +33,33 @@ nav#navbar .menu a {
 
 nav#navbar .menu a:hover {
     background: rgb(101, 101, 248);
+}
+
+#welcome-section{
+    height: 100vh;
+    width: 100%;
+    background: #2f3133;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+#welcome-section h1{
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+#welcome-section p{
+    color: red;
+    font-size: 24px;
+    position: relative;
+    top: -40px;
+}
+
+
+@media(max-width: 500px){
+
 }
