@@ -1,18 +1,18 @@
-body{
+body {
     margin: 0;
     padding: 0;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-nav#navbar{
+nav#navbar {
     background: #d21e39;
 }
 
 
-nav#navbar .menu{
+nav#navbar .menu {
     display: flex;
     justify-content: end;
     align-items: flex-end;
@@ -22,12 +22,12 @@ nav#navbar .menu{
     right: 30px !important;
 }
 
-nav#navbar .menu a{
+nav#navbar .menu a {
     display: block;
     padding: 25px;
     color: white;
 }
 
-nav#navbar .menu a:hover{
+nav#navbar .menu a:hover {
     background: rgb(101, 101, 248);
 }
