@@ -1,4 +1,5 @@
 #+title: Micro Trials Bright Webilor and Alejandro Salazar
+#+author: BrightWebilor-AlejandroSalazar
 #+auto-tangle: t
 
 * Hacker Rank Problems - Remote Pair Programming
